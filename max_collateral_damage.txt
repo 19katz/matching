@@ -1,0 +1,21 @@
+Student preferences: {'s1': ['c5', 'c4', 'c2', 'c3', 'c1'], 's2': ['c2', 'c4', 'c3', 'c5', 'c1'], 's3': ['c1', 'c4', 'c5', 'c2', 'c3'], 's4': ['c4', 'c1', 'c2', 'c3', 'c5'], 's5': ['c4', 'c1', 'c2', 'c5', 'c3']}
+School preferences: {'c1': ['s1', 's5', 's3', 's2', 's4'], 'c2': ['s1', 's4', 's2', 's3', 's5'], 'c3': ['s5', 's1', 's4', 's3', 's2'], 'c4': ['s1', 's2', 's4', 's3', 's5'], 'c5': ['s5', 's1', 's4', 's3', 's2']}
+Affirmative Action School preferences: {'c1': ['s1', 's3', 's5', 's2', 's4'], 'c2': ['s1', 's4', 's2', 's3', 's5'], 'c3': ['s5', 's1', 's4', 's3', 's2'], 'c4': ['s1', 's2', 's4', 's3', 's5'], 'c5': ['s5', 's1', 's4', 's3', 's2']}
+Unchanged individuals: ['s1', 's2', 's4']
+Old Match: {'s1': s1 ⚭ c5, 's2': s2 ⚭ c2, 's3': s3 ⚭ c3, 's4': s4 ⚭ c4, 's5': s5 ⚭ c1}
+New Match: {'s1': s1 ⚭ c4, 's2': s2 ⚭ c3, 's3': s3 ⚭ c1, 's4': s4 ⚭ c2, 's5': s5 ⚭ c5}
+Students made better: 1 ['s3']
+Students Worse Off: 4 ['s1', 's2', 's4', 's5']
+c1's old partner is worse off: True (s5)
+c1's new partner is worse off:  False (s3)
+c1's old partner is better off: False (s5)
+c1's new partner is better off:  True (s3)
+Unchanged Students Worse Off: 3 ['s1', 's2', 's4']
+Students Better Off: 1 ['s3']
+Better off Students who are Better Off: 1 ['s3']
+Better off Students who are Worse Off: 0 []
+Highest Ranked Status: better
+Max Amount Worsened (for 1 student): 2
+Max student worse is not worse: False
+Amount Changed (total): 3
+ 

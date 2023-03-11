@@ -1,0 +1,11 @@
+python3 matching_1_to_1.py 3 swapped 10000 0 write_data
+python3 matching_1_to_1.py 4 swapped 10000 0 write_data
+python3 matching_1_to_1.py 5 swapped 10000 0 write_data
+python3 matching_1_to_1.py 6 swapped 10000 0 write_data
+python3 matching_1_to_1.py 7 swapped 10000 0 write_data
+python3 matching_1_to_1.py 8 swapped 10000 0 write_data
+python3 matching_1_to_1.py 9 swapped 10000 0 write_data
+python3 matching_1_to_1.py 10 swapped 10000 0 write_data
+python3 matching_1_to_1.py 12 swapped 10000 0 write_data
+python3 matching_1_to_1.py 16 swapped 10000 0 write_data
+python3 matching_1_to_1.py 20 swapped 10000 0 write_data

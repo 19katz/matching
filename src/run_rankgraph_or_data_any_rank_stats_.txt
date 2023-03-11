@@ -1,0 +1,11 @@
+python3 matching_1_to_1.py 3 any 10000 0 rank_stats
+python3 matching_1_to_1.py 4 any 10000 0 rank_stats
+python3 matching_1_to_1.py 5 any 10000 0 rank_stats
+python3 matching_1_to_1.py 6 any 10000 0 rank_stats
+python3 matching_1_to_1.py 7 any 10000 0 rank_stats
+python3 matching_1_to_1.py 8 any 10000 0 rank_stats
+python3 matching_1_to_1.py 9 any 10000 0 rank_stats
+python3 matching_1_to_1.py 10 any 10000 0 rank_stats
+python3 matching_1_to_1.py 12 any 10000 0 rank_stats
+python3 matching_1_to_1.py 16 any 10000 0 rank_stats
+python3 matching_1_to_1.py 20 any 10000 0 rank_stats
